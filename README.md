@@ -30,8 +30,16 @@ Battlebot llamado RobotSlayer (ex-rotorcrart). Construido por estudiantes de la 
 ![Circuito](Electronica/imgs/diagramaElectroMecanico.png)
 
 
+## Aplicación Android
 
-## Bot Controls
+Se creo una aplicación simple para controlar el robot, se utilizó la página del MIT App Inventor la cual permite realizar de forma simple una aplicación.
+
+<div align="center">
+<img src="controlApp/imgs/app.jpg" width=300/>
+</div>
+
+
+### Bot Controls
  * `up`- move bot forwards 
  * `down` - move bot backwards 
  * `on` - activate weapon
