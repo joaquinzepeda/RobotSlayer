@@ -26,6 +26,7 @@ Battlebot llamado RobotSlayer (ex-rotorcrart). Construido por estudiantes de la 
   * un interruptor con gran capacidad
   * Relé con gran capacidad
 
+El circuito del motor del arma consume entre 1.8 y 2.5 Amperes, lo cual permite generar una gran velocidad en el arma. 
 
 ![Circuito](Electronica/imgs/diagramaElectroMecanico.png)
 
