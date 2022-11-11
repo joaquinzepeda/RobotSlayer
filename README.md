@@ -48,6 +48,13 @@ Se creo una aplicación simple para controlar el robot, se utilizó la página d
  * `right` - turn right
  * `left` - spin flag
 
+# Pruebas
+
+https://user-images.githubusercontent.com/51517852/201267388-1e3c800d-72d2-4014-98eb-3af087c1f13f.mp4
+
+![image](https://user-images.githubusercontent.com/51517852/201267566-e58228b5-6cb1-46be-885a-501465d4f457.png)
+
+
 
 ## Creditos:  
 Aejandro Chepillo - Raimundo Andrade - Joaquin Zepeda
