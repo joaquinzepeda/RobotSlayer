@@ -1,5 +1,5 @@
 # RobotSlayer
-Battlebot llamado RobotSlayer (ex-rotorcrart). Construido por estudiantes de la Facultad de Ingeniería de la Universidad de Chile. La primera versión se creó para el curso Taller de Proyecto en Otoño 2019, luego se le han realizado mejoras. 
+Battlebot llamado RobotSlayer (ex-rotorcrart). La primera versión se creó para el curso Taller de Proyecto en Otoño 2019, luego se le han realizado mejoras. Participó en el Beauchef Robotics Challenge 2022.
  
 <div align="center">
 <img src="Diseño CAD/RobotSlayer V1.1 v7.png"/>
